@@ -1,0 +1,163 @@
+/* 
+
+    Concept By : Tanmay Upadhyay
+    Email : kevinthemetnik@gmail.com
+    Facebook : /tanmayupadhyay91
+    Github Link : https://github.com/tanmay606
+
+    All the icons used for building this concept website are being fetched from www.flaticon.com
+    And are completely meant for fair use.
+
+
+*/
+
+
+
+/* universal styles will come here */
+
+body    {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-family: 'Poiret One', cursive;
+}
+
+h2  {
+
+    padding: 5% 0 0 0;
+}
+
+h3  {
+
+    margin-top: 25px;
+    font-family: 'Bebas Neue', cursive;
+}
+
+hr  {
+
+    border:1px solid #fff;
+    width: 10%;
+}
+
+
+#website-testimonials       {
+
+    background-color: #c1a57b;
+    padding: 10%;
+}
+
+/* specific style will come here */
+
+/* 1. styling for title page section */
+
+
+img.website-logo    {
+    width:30px;
+}
+
+#website-title  {
+
+
+    color:#fff;
+    background-color: #222831;
+}
+
+
+.title-col   {
+
+    padding: 10%;
+}
+
+img.website-profile-pic     {
+    width: 150px;
+    border:1px solid #222831;
+    border-radius: 100%;
+}
+
+
+nav     {
+
+    background-color: #222831;
+    font-family: "Bebas Neue";
+}
+
+li.nav-item     {
+    padding: 0 15px;
+}
+
+.nav-link   {
+    font-size: 1.2rem;
+}
+
+.my-professions     
+{
+    display: right;
+    margin:10px;
+    font-family: 'Bebas Neue', cursive;
+}
+
+.navbar-brand   {width:20%}
+
+
+img.banner-logo    {
+    width: 30px;
+    padding: 0;
+}
+
+img.profile-pic     {
+    
+    width: 130px;
+    height: 130px;
+    border:1px solid #222831;
+    border-radius: 100%;
+}
+
+div.container-fluid     {
+
+    padding: 5%;
+    text-align: center;
+}
+
+/* Styling for services part */
+
+
+section#website-services    {
+
+    background-color: #30475e;
+    color:#fff;
+}
+
+.skill  {
+    padding:5% 7% 7% 7%;
+}
+
+.skill-disc     {
+    margin-top: 50px;
+}
+
+.test-img   {
+    margin:1%;
+    border-radius: 100%;
+}
+
+.carousel-item  {
+    padding:0 30%;
+}
+
+
+/* Styling for contact area */
+
+
+#website-contact {
+    background-color: #fff;
+}
+
+
+.footer-ul {
+    margin: 5%;
+}
+
+li.footer-li {
+    margin: 10px;
+    display: inline;
+}
